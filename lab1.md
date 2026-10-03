@@ -5,7 +5,7 @@
 ```bash
 git --version
 git config --global user.name "chayma"
-git config --global user.email "chayma@gmail.com"
+git config --global user.email "hannounchayma@gmail.com"
 ```
 
 Git est installé (version 2.55.0). Le nom et l'e-mail sont associés à chaque commit.
